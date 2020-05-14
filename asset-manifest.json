@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ashish19912009.github.io/NoteTracker/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ashish19912009.github.io/NoteTracker/static/js/main.83b09429.chunk.js",
-    "main.js.map": "/ashish19912009.github.io/NoteTracker/static/js/main.83b09429.chunk.js.map",
-    "runtime-main.js": "/ashish19912009.github.io/NoteTracker/static/js/runtime-main.08f51506.js",
-    "runtime-main.js.map": "/ashish19912009.github.io/NoteTracker/static/js/runtime-main.08f51506.js.map",
-    "static/js/2.2e9f8bfc.chunk.js": "/ashish19912009.github.io/NoteTracker/static/js/2.2e9f8bfc.chunk.js",
-    "static/js/2.2e9f8bfc.chunk.js.map": "/ashish19912009.github.io/NoteTracker/static/js/2.2e9f8bfc.chunk.js.map",
-    "index.html": "/ashish19912009.github.io/NoteTracker/index.html",
-    "precache-manifest.1dd10cb39251a729d31d4d65f85406ba.js": "/ashish19912009.github.io/NoteTracker/precache-manifest.1dd10cb39251a729d31d4d65f85406ba.js",
-    "service-worker.js": "/ashish19912009.github.io/NoteTracker/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/ashish19912009.github.io/NoteTracker/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2e9f8bfc.chunk.js.LICENSE.txt": "/ashish19912009.github.io/NoteTracker/static/js/2.2e9f8bfc.chunk.js.LICENSE.txt"
+    "main.css": "/NoteTracker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/NoteTracker/static/js/main.83b09429.chunk.js",
+    "main.js.map": "/NoteTracker/static/js/main.83b09429.chunk.js.map",
+    "runtime-main.js": "/NoteTracker/static/js/runtime-main.c10333e5.js",
+    "runtime-main.js.map": "/NoteTracker/static/js/runtime-main.c10333e5.js.map",
+    "static/js/2.2e9f8bfc.chunk.js": "/NoteTracker/static/js/2.2e9f8bfc.chunk.js",
+    "static/js/2.2e9f8bfc.chunk.js.map": "/NoteTracker/static/js/2.2e9f8bfc.chunk.js.map",
+    "index.html": "/NoteTracker/index.html",
+    "precache-manifest.04d5448bdc43e5a6105f3b5f9afbb44d.js": "/NoteTracker/precache-manifest.04d5448bdc43e5a6105f3b5f9afbb44d.js",
+    "service-worker.js": "/NoteTracker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/NoteTracker/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2e9f8bfc.chunk.js.LICENSE.txt": "/NoteTracker/static/js/2.2e9f8bfc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.08f51506.js",
+    "static/js/runtime-main.c10333e5.js",
     "static/js/2.2e9f8bfc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.83b09429.chunk.js"
