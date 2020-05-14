@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashish19912009.github.io/NoteTracker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ashish19912009.github.io/NoteTracker/static/js/main.83b09429.chunk.js",
+    "main.js.map": "/ashish19912009.github.io/NoteTracker/static/js/main.83b09429.chunk.js.map",
+    "runtime-main.js": "/ashish19912009.github.io/NoteTracker/static/js/runtime-main.08f51506.js",
+    "runtime-main.js.map": "/ashish19912009.github.io/NoteTracker/static/js/runtime-main.08f51506.js.map",
+    "static/js/2.2e9f8bfc.chunk.js": "/ashish19912009.github.io/NoteTracker/static/js/2.2e9f8bfc.chunk.js",
+    "static/js/2.2e9f8bfc.chunk.js.map": "/ashish19912009.github.io/NoteTracker/static/js/2.2e9f8bfc.chunk.js.map",
+    "index.html": "/ashish19912009.github.io/NoteTracker/index.html",
+    "precache-manifest.1dd10cb39251a729d31d4d65f85406ba.js": "/ashish19912009.github.io/NoteTracker/precache-manifest.1dd10cb39251a729d31d4d65f85406ba.js",
+    "service-worker.js": "/ashish19912009.github.io/NoteTracker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ashish19912009.github.io/NoteTracker/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2e9f8bfc.chunk.js.LICENSE.txt": "/ashish19912009.github.io/NoteTracker/static/js/2.2e9f8bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f51506.js",
+    "static/js/2.2e9f8bfc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.83b09429.chunk.js"
+  ]
+}
