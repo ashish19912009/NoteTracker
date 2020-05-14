@@ -2,7 +2,7 @@
   "name": "practo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "ashish19912009.github.io/NoteTracker",
+  "homepage": "https://ashish19912009.github.io/NoteTracker",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@material-ui/icons": "^4.9.1",
